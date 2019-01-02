@@ -1,0 +1,2 @@
+# Tenna
+technical interview exercises
